@@ -1,4 +1,5 @@
 @use "base/variables" as var;
+@use "base/mixins";
 
 .header {
   background-color: var.$verde;
